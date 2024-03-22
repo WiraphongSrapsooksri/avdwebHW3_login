@@ -111,10 +111,15 @@ const MainPage = () => {
               กรุณาลองเข้าสู่ระบบอีกครั้ง
             </Typography>
             <Button
-              variant="contained"
-              color="primary"
+              variant="outlined"
+              // color="secondary"
               onClick={() => navigate("/login")}
-              sx={{ mt: 2, fontFamily: "Sarabun" }}
+              sx={{
+                mt: 2,
+                fontFamily: "Sarabun",
+                color: "black",
+                borderColor: "black",
+              }}
             >
               เข้าสู่ระบบ
             </Button>

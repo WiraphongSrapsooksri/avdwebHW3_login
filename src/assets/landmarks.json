@@ -7,11 +7,7 @@
             "Buddhas of Bamiyan",
             "Herat Citadel",
             "Kabul Museum",
-            "Khyber Pass",
-            "National Museum of Afghanistan",
-            "Panjshir Valley",
-            "Shahr-e-Zahak",
-            "Tora Bora"
+            "Khyber Pass"
         ]
     },
     {
@@ -381,12 +377,7 @@
             "Bouvet Island Airport",
             "Bouvet Island, Norway",
             "Bouvet Island, South Africa",
-            "Bouvet Island, United States",
-            "Bouvet Island, United States Minor Outlying Islands",
-            "Bouvet Island, United States Virgin Islands",
-            "Bouvet Island, United States",
-            "Bouvet Island, United States Minor Outlying Islands",
-            "Bouvet Island, United States Virgin Islands"
+            "Bouvet Island, United States"
         ]
     },{
         "country":"Brazil",
@@ -395,6 +386,100 @@
             "Christ the Redeemer",
             "Iguazu Falls",
             "Pantanal"
+        ]
+    },{
+        "country":"Denmark",
+        "landmark":[
+            "Amalienborg",
+            "Christiansborg Palace",
+            "Frederiksborg Palace",
+            "Kronborg Castle",
+            "Rosenborg Castle"
+        ]
+    },
+    {
+    "country":"Finland",
+    "landmark":[
+        "Helsinki Cathedral",
+        "Kiasma",
+        "Linnanmäki",
+        "Mannerheim Museum",
+        "National Museum of Finland"
+    ]
+    },
+    {
+        "country":"Greenland",
+        "landmark":[
+            "Ilulissat Icefjord",
+            "Kangerlussuaq",
+            "Nuuk",
+            "Qaqortoq",
+            "Sisimiut"
+        ]
+    },{
+        "country":"Hong Kong",
+        "landmark":[
+            "Hong Kong Disneyland",
+            "Lantau Island",
+            "Ocean Park Hong Kong",
+            "Victoria Peak",
+            "Wong Tai Sin Temple"
+        ]
+    },{
+        "country":"Japan",
+        "landmark":[
+            "Hiroshima Peace Memorial",
+            "Mount Fuji",
+            "Nijo Castle",
+            "Tokyo Tower",
+            "Tokyo Imperial Palace"
+        ]
+    },
+    {
+        "country":"Jordan",
+        "landmark":[
+            "Petra",
+            "Wadi Rum"
+        ]
+    },{
+        "country":"Malaysia",
+        "landmark":[
+            "Petronas Towers",
+            "Taman Negara",
+            "Tioman Island"
+        ]
+    },
+    {
+        "country":"Nepal",
+        "landmark":[
+            "Mount Everest",
+            "Pashupatinath Temple",
+            "Swayambhunath"
+        ]
+    },{
+        "country":"Qatar",
+        "landmark":[
+            "Doha Corniche",
+            "Katara Cultural Village",
+            "Museum of Islamic Art",
+            "Souq Waqif",
+            "The Pearl-Qatar"
+        ]
+    },{
+        "country":"Spain",
+        "landmark":[
+            "Alhambra",
+            "Ibiza",
+            "La Sagrada Familia",
+            "Santiago de Compostela"
+        ]
+    },{
+        "country":"Thailand",
+        "landmark":[
+            "Ayutthaya",
+            "Bangkok",
+            "Chiang Mai",
+            "Phuket"
         ]
     }
 ]

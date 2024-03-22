@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* ใช้ขนาดสูงเต็มจอ */
+  text-align: center; /* จัดข้อความให้อยู่ตรงกลาง */
+}

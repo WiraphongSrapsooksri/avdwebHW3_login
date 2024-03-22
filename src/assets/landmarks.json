@@ -1,0 +1,400 @@
+[
+    {
+        "country":"Afghanistan",
+        "landmark":[
+            "Babur's Gardens",
+            "Band-e Amir National Park",
+            "Buddhas of Bamiyan",
+            "Herat Citadel",
+            "Kabul Museum",
+            "Khyber Pass",
+            "National Museum of Afghanistan",
+            "Panjshir Valley",
+            "Shahr-e-Zahak",
+            "Tora Bora"
+        ]
+    },
+    {
+        "country":"Åland Islands",
+        "landmark":[
+            "Bomarsund",
+            "Kastelholm Castle",
+            "Kökar",
+            "Lemström Canal",
+            "Mariehamn",
+            "Sund",
+            "The Åland Islands Museum",
+            "The Åland Maritime Museum",
+            "The Åland Museum of Art",
+            "The Åland Natural and Cultural History Museum"
+        ]
+    },
+    {
+        "country":"Albania",
+        "landmark":[
+            "Berat Castle",
+            "Butrint",
+            "Dajti Mountain",
+            "Durres Amphitheatre",
+            "Gjirokastër Castle",
+            "Krujë Castle",
+            "Llogara Pass",
+            "National Museum of History",
+            "Rozafa Castle",
+            "Skanderbeg Square"
+        ]        
+    },
+    {
+        "country":"Algeria",
+        "landmark":[
+            "Ahaggar National Park",
+            "Basilique Notre Dame d'Afrique",
+            "Basilique Saint Augustin",
+            "Casbah of Algiers",
+            "Djemila",
+            "El Kala National Park",
+            "Gouraya National Park",
+            "Hoggar Mountains",
+            "Kabylia",
+            "Tassili n'Ajjer"
+        ]
+    },
+    {
+        "country":"American Samoa",
+        "landmark":[
+            "Alofaaga Blowholes",
+            "Aunu'u Island",
+            "Fagatele Bay National Marine Sanctuary",
+            "Fogama'a Crater",
+            "Jean P. Haydon Museum",
+            "National Park of American Samoa",
+            "Pago Pago",
+            "Pola Island",
+            "Rose Atoll Marine National Monument",
+            "Tutuila"
+        ]
+    },{
+        "country":"AndorrA",
+        "landmark":[
+            "Casa de la Vall",
+            "Coma Pedrosa",
+            "Estadi Nacional",
+            "Grandvalira",
+            "Madriu-Perafita-Claror Valley",
+            "Museu Nacional de l'Automòbil",
+            "Ordino Arcalís",
+            "Palau de Gel",
+            "Sant Joan de Caselles",
+            "Vallnord"
+        ]
+    },
+    {
+        "country":"Angola",
+        "landmark":[
+            "Benguela",
+            "Cangandala National Park",
+            "Cuito Cuanavale",
+            "Fortaleza de São Miguel",
+            "Iona National Park",
+            "Kalandula Falls",
+            "Kissama National Park",
+            "Luanda",
+            "M'banza-Kongo",
+            "Mupa National Park"
+        ]
+    },
+    {
+        "country":"Anguilla",
+        "landmark":[
+            "Anguilla National Trust Museum",
+            "Anguilla's Heritage Museum",
+            "Blowing Point",
+            "Crocus Bay",
+            "Dog Island",
+            "Fountain Cavern National Park",
+            "Heritage Collection Museum",
+            "Island Harbour",
+            "Little Bay",
+            "Sandy Ground"
+        ]
+    },
+    {
+        "country":"Antarctica",
+        "landmark":[
+            "Antarctic Peninsula",
+            "Bellingshausen Station",
+            "Byers Peninsula",
+            "Deception Island",
+            "Elephant Island",
+            "Larsemann Hills",
+            "Livingston Island",
+            "Marambio Base",
+            "McMurdo Station",
+            "Mount Erebus"
+        ]
+    },
+    {
+        "country":"Antigua and Barbuda",
+        "landmark":[
+            "Barbuda",
+            "Betty's Hope",
+            "Devil's Bridge",
+            "Falmouth Harbour",
+            "Fort James",
+            "Nelson's Dockyard",
+            "Shirley Heights",
+            "St. John's",
+            "St. Peter's",
+            "Valley Church Beach"
+        ]
+    },
+    {
+        "country":"Argentina",
+        "landmark":[
+            "Aconcagua",
+            "Cueva de las Manos",
+            "Iguazu Falls"
+        ]
+    },
+    {
+        "country":"Aruba",
+        "landmark":[
+            "Arikok National Park",
+            "Aruba Aloe Factory",
+            "Aruba Ostrich Farm",
+            "California Lighthouse",
+            "Casibari Rock Formations",
+            "Fort Zoutman",
+            "Hooiberg",
+            "Natural Bridge",
+            "Oranjestad",
+            "Philip's Animal Garden"
+        ]
+    },
+    {
+        "country":"Australia",
+        "landmark":[
+            "Ayers Rock",
+            "Great Barrier Reef",
+            "Great Ocean Road",
+            "Kakadu National Park",
+            "Sydney Opera House",
+            "Uluru-Kata Tjuta National Park"
+        ]
+    },
+    {
+        "country":"Austria",
+        "landmark":[
+            "Belvedere",
+            "Hofburg",
+            "Kunsthistorisches Museum",
+            "Naturhistorisches Museum",
+            "Schönbrunn Palace",
+            "St. Stephen's Cathedral",
+            "Vienna State Opera"
+        ]
+    },
+    {
+        "country":"Azerbaijan",
+        "landmark":[
+            "Azerbaijan Carpet Museum",
+            "Baku Museum of Modern Art",
+            "Baku State University",
+            "Baku TV Tower",
+            "Baku Zoo",
+            "Bibi-Heybat Mosque",
+            "Boulevard Hotel Baku",
+            "Boulevard Park",
+            "Boulevard Walk",
+            "Boulevard, Baku"
+        ]
+    },
+    {
+        "country":"Bahamas",
+        "landmark":[
+            "Andros Barrier Reef",
+            "Andros Island",
+            "Ardastra Gardens",
+            "Atlantis Paradise Island",
+            "Bahamas National Trust",
+            "Blue Lagoon Island",
+            "Cabbage Beach",
+            "Cable Beach",
+            "Castaway Cay",
+            "Cat Island"
+        ]
+    },
+    {
+        "country":"Bahrain",
+        "landmark":[
+            "Al Fateh Grand Mosque",
+            "Arad Fort",
+            "Bahrain Fort",
+            "Bahrain National Museum",
+            "Bahrain World Trade Center",
+            "Barbar Temple"
+        ]
+    },
+    {
+        "country":"Bangladesh",
+        "landmark":[
+            "Ahsan Manzil",
+            "Bangabandhu National Stadium",
+            "Bangladesh National Museum",
+            "Bangladesh National Zoo",
+            "Bangladesh Shilpakala Academy",
+            "Bangladesh Supreme Court",
+            "Bashundhara City",
+            "Baitul Mukarram",
+            "Baitul Mukarram National Mosque",
+            "Baitur Rauf Jame Mosque"
+        ]
+    },
+    {
+        "country":"Barbados",
+        "landmark":[
+            "Andromeda Botanic Gardens",
+            "Barbados Museum & Historical Society",
+            "Barbados Wildlife Reserve",
+            "Bathsheba",
+            "Bridgetown",
+            "Cherry Tree Hill",
+            "Codrington College",
+            "Farley Hill National Park",
+            "Folkestone Marine Park",
+            "Garrison Savannah"
+        ]
+    },
+    {
+        "country":"Belarus",
+        "landmark":[
+            "Belarusian State Museum of the History of the Great Patriotic War",
+            "Belarusian State Museum of the History of Religion",
+            "Belarusian State Museum of the History of the Theater and Music",
+            "Belarusian State Museum of the History of the Village",
+            "Belarusian State Museum of the History of the War",
+            "Belarusian State Museum of the History of the World War"
+        ]
+    },
+    {
+        "country":"Belgium",
+        "landmark":[
+            "Atomium",
+            "Cinquantenaire",
+            "Manneken Pis",
+            "Royal Museum of Fine Arts",
+            "Royal Palace of Brussels"
+        ]
+    },
+    {
+        "country":"Belize",
+        "landmark":[
+            "Altun Ha",
+            "Belize Barrier Reef",
+            "Belize Zoo",
+            "Caracol",
+            "Caye Caulker",
+            "Great Blue Hole",
+            "Hol Chan Marine Reserve",
+            "Lamanai",
+            "Laughing Bird Caye",
+            "Mountain Pine Ridge Forest Reserve"
+        ]
+    },{
+        "country":"Benin",
+        "landmark":[
+            "Abomey",
+            "Boukoumbe",
+            "Cotonou",
+            "Dassa-Zoumé",
+            "Grand-Popo",
+            "Kétou",
+            "Lokossa",
+            "Natitingou",
+            "Ouidah",
+            "Porto-Novo"
+        ]
+    },{
+        "country":"Bermuda",
+        "landmark":[
+            "Bermuda Aquarium, Museum and Zoo",
+            "Bermuda Botanical Gardens",
+            "Bermuda Maritime Museum",
+            "Bermuda National Gallery",
+            "Bermuda National Trust Museum",
+            "Bermuda Underwater Exploration Institute",
+            "Crystal Caves",
+            "Fort Hamilton",
+            "Fort St. Catherine",
+            "Gibbs Hill Lighthouse"
+        ]
+    },{
+        "country":"Bhutan",
+        "landmark":[
+            "Bhutan National Museum",
+            "Bhutan Postal Museum",
+            "Bhutan Textile Museum",
+            "Changangkha Lhakhang",
+            "Cheri Monastery",
+            "Choki Traditional Art School",
+            "Clock Tower Square",
+            "Drukgyel Dzong",
+            "Dzongdrakha Temple",
+            "Folk Heritage Museum"
+        ]
+    },{
+        "country":"Bolivia",
+        "landmark":[
+            "Cerro Rico",
+            "Isla del Sol",
+            "Madidi National Park",
+            "Salar de Uyuni",
+            "Tiwanaku"
+        ]
+    },{
+        "country":"Bosnia and Herzegovina",
+        "landmark":[
+            "Bijambare",
+            "Bijela Tabija",
+            "Bijeli Brijeg Stadium",
+            "Bijeli Potok",
+            "Bijelo Polje",
+            "Bijelo Polje Stadium",
+            "Bijelo Polje, Bosnia and Herzegovina",
+            "Bijelo Polje, Montenegro",
+            "Bijelo Polje, Serbia",
+            "Bijelo Polje, Slovenia"
+        ]
+    },{
+        "country":"Botswana",
+        "landmark":[
+            "Chobe National Park",
+            "Kgalagadi Transfrontier Park",
+            "Makgadikgadi Pans",
+            "Moremi Game Reserve",
+            "Nxai Pan National Park"
+        ]
+    },{
+        "country":"Bouvet Island",
+        "landmark":[
+            "Bouvet Island",
+            "Bouvet Island Airport",
+            "Bouvet Island, Norway",
+            "Bouvet Island, South Africa",
+            "Bouvet Island, United States",
+            "Bouvet Island, United States Minor Outlying Islands",
+            "Bouvet Island, United States Virgin Islands",
+            "Bouvet Island, United States",
+            "Bouvet Island, United States Minor Outlying Islands",
+            "Bouvet Island, United States Virgin Islands"
+        ]
+    },{
+        "country":"Brazil",
+        "landmark":[
+            "Amazon Rainforest",
+            "Christ the Redeemer",
+            "Iguazu Falls",
+            "Pantanal"
+        ]
+    }
+]

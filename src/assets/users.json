@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "username": "johndoe",
+        "password": "123456",
+        "typeuser": "admin",      
+        "country": "Brazil"        
+    },
+    {
+        "id": 2,
+        "name": "Ana Maria",
+        "username": "max",
+        "password": "123456",
+        "typeuser": "user",
+        "country": "Bolivia"        
+    },
+    {
+        "id": 3,
+        "name": "Wiraphong Srapsooksri",
+        "username": "user3",
+        "password": "1234",
+        "typeuser": "user",
+        "country": "Brazil"        
+    },
+    {
+        "id": 4,
+        "name": "User 4",
+        "username": "user4",
+        "password": "1234",
+        "typeuser": "user",
+        "country": "Brazil"        
+    },
+    {
+        "id": 4,
+        "name": "User 5",
+        "username": "user5",
+        "password": "1234",
+        "typeuser": "user",
+        "country": "Bahrain"        
+    },
+    {
+        "id": 5,
+        "name": "User 6",
+        "username": "user6",
+        "password": "1234",
+        "typeuser": "user",
+        "country": "Afghanistan"        
+    }
+]
